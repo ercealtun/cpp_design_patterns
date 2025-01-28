@@ -14,8 +14,12 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/ch1ef/Desktop/cpp_design_patterns/src/Singleton/Singleton.cpp" "CMakeFiles/cpp_design_patterns.dir/src/Singleton/Singleton.cpp.o" "gcc" "CMakeFiles/cpp_design_patterns.dir/src/Singleton/Singleton.cpp.o.d"
   )
 
-# Targets to which this target links.
-set(CMAKE_TARGET_LINKED_INFO_FILES
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_FORWARD_LINKED_INFO_FILES
   )
 
 # Fortran module output directory.
