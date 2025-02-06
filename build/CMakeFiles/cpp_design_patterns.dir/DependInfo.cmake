@@ -9,9 +9,10 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/ch1ef/Desktop/cpp_design_patterns/main.cpp" "CMakeFiles/cpp_design_patterns.dir/main.cpp.o" "gcc" "CMakeFiles/cpp_design_patterns.dir/main.cpp.o.d"
+  "/home/ch1ef/Desktop/cpp_design_patterns/src/OpenClosedPrinciple/Circle.cpp" "CMakeFiles/cpp_design_patterns.dir/src/OpenClosedPrinciple/Circle.cpp.o" "gcc" "CMakeFiles/cpp_design_patterns.dir/src/OpenClosedPrinciple/Circle.cpp.o.d"
+  "/home/ch1ef/Desktop/cpp_design_patterns/src/OpenClosedPrinciple/Rectangle.cpp" "CMakeFiles/cpp_design_patterns.dir/src/OpenClosedPrinciple/Rectangle.cpp.o" "gcc" "CMakeFiles/cpp_design_patterns.dir/src/OpenClosedPrinciple/Rectangle.cpp.o.d"
   "/home/ch1ef/Desktop/cpp_design_patterns/src/SingleResponsibilityPrinciple/Journal.cpp" "CMakeFiles/cpp_design_patterns.dir/src/SingleResponsibilityPrinciple/Journal.cpp.o" "gcc" "CMakeFiles/cpp_design_patterns.dir/src/SingleResponsibilityPrinciple/Journal.cpp.o.d"
   "/home/ch1ef/Desktop/cpp_design_patterns/src/SingleResponsibilityPrinciple/PersistenceManager.cpp" "CMakeFiles/cpp_design_patterns.dir/src/SingleResponsibilityPrinciple/PersistenceManager.cpp.o" "gcc" "CMakeFiles/cpp_design_patterns.dir/src/SingleResponsibilityPrinciple/PersistenceManager.cpp.o.d"
-  "/home/ch1ef/Desktop/cpp_design_patterns/src/Singleton/Singleton.cpp" "CMakeFiles/cpp_design_patterns.dir/src/Singleton/Singleton.cpp.o" "gcc" "CMakeFiles/cpp_design_patterns.dir/src/Singleton/Singleton.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

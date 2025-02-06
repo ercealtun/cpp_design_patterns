@@ -153,6 +153,54 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_design_patterns.dir/build.make CMakeFiles/cpp_design_patterns.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+src/OpenClosedPrinciple/Circle.o: src/OpenClosedPrinciple/Circle.cpp.o
+.PHONY : src/OpenClosedPrinciple/Circle.o
+
+# target to build an object file
+src/OpenClosedPrinciple/Circle.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_design_patterns.dir/build.make CMakeFiles/cpp_design_patterns.dir/src/OpenClosedPrinciple/Circle.cpp.o
+.PHONY : src/OpenClosedPrinciple/Circle.cpp.o
+
+src/OpenClosedPrinciple/Circle.i: src/OpenClosedPrinciple/Circle.cpp.i
+.PHONY : src/OpenClosedPrinciple/Circle.i
+
+# target to preprocess a source file
+src/OpenClosedPrinciple/Circle.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_design_patterns.dir/build.make CMakeFiles/cpp_design_patterns.dir/src/OpenClosedPrinciple/Circle.cpp.i
+.PHONY : src/OpenClosedPrinciple/Circle.cpp.i
+
+src/OpenClosedPrinciple/Circle.s: src/OpenClosedPrinciple/Circle.cpp.s
+.PHONY : src/OpenClosedPrinciple/Circle.s
+
+# target to generate assembly for a file
+src/OpenClosedPrinciple/Circle.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_design_patterns.dir/build.make CMakeFiles/cpp_design_patterns.dir/src/OpenClosedPrinciple/Circle.cpp.s
+.PHONY : src/OpenClosedPrinciple/Circle.cpp.s
+
+src/OpenClosedPrinciple/Rectangle.o: src/OpenClosedPrinciple/Rectangle.cpp.o
+.PHONY : src/OpenClosedPrinciple/Rectangle.o
+
+# target to build an object file
+src/OpenClosedPrinciple/Rectangle.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_design_patterns.dir/build.make CMakeFiles/cpp_design_patterns.dir/src/OpenClosedPrinciple/Rectangle.cpp.o
+.PHONY : src/OpenClosedPrinciple/Rectangle.cpp.o
+
+src/OpenClosedPrinciple/Rectangle.i: src/OpenClosedPrinciple/Rectangle.cpp.i
+.PHONY : src/OpenClosedPrinciple/Rectangle.i
+
+# target to preprocess a source file
+src/OpenClosedPrinciple/Rectangle.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_design_patterns.dir/build.make CMakeFiles/cpp_design_patterns.dir/src/OpenClosedPrinciple/Rectangle.cpp.i
+.PHONY : src/OpenClosedPrinciple/Rectangle.cpp.i
+
+src/OpenClosedPrinciple/Rectangle.s: src/OpenClosedPrinciple/Rectangle.cpp.s
+.PHONY : src/OpenClosedPrinciple/Rectangle.s
+
+# target to generate assembly for a file
+src/OpenClosedPrinciple/Rectangle.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_design_patterns.dir/build.make CMakeFiles/cpp_design_patterns.dir/src/OpenClosedPrinciple/Rectangle.cpp.s
+.PHONY : src/OpenClosedPrinciple/Rectangle.cpp.s
+
 src/SingleResponsibilityPrinciple/Journal.o: src/SingleResponsibilityPrinciple/Journal.cpp.o
 .PHONY : src/SingleResponsibilityPrinciple/Journal.o
 
@@ -201,30 +249,6 @@ src/SingleResponsibilityPrinciple/PersistenceManager.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_design_patterns.dir/build.make CMakeFiles/cpp_design_patterns.dir/src/SingleResponsibilityPrinciple/PersistenceManager.cpp.s
 .PHONY : src/SingleResponsibilityPrinciple/PersistenceManager.cpp.s
 
-src/Singleton/Singleton.o: src/Singleton/Singleton.cpp.o
-.PHONY : src/Singleton/Singleton.o
-
-# target to build an object file
-src/Singleton/Singleton.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_design_patterns.dir/build.make CMakeFiles/cpp_design_patterns.dir/src/Singleton/Singleton.cpp.o
-.PHONY : src/Singleton/Singleton.cpp.o
-
-src/Singleton/Singleton.i: src/Singleton/Singleton.cpp.i
-.PHONY : src/Singleton/Singleton.i
-
-# target to preprocess a source file
-src/Singleton/Singleton.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_design_patterns.dir/build.make CMakeFiles/cpp_design_patterns.dir/src/Singleton/Singleton.cpp.i
-.PHONY : src/Singleton/Singleton.cpp.i
-
-src/Singleton/Singleton.s: src/Singleton/Singleton.cpp.s
-.PHONY : src/Singleton/Singleton.s
-
-# target to generate assembly for a file
-src/Singleton/Singleton.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cpp_design_patterns.dir/build.make CMakeFiles/cpp_design_patterns.dir/src/Singleton/Singleton.cpp.s
-.PHONY : src/Singleton/Singleton.cpp.s
-
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -237,15 +261,18 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... src/OpenClosedPrinciple/Circle.o"
+	@echo "... src/OpenClosedPrinciple/Circle.i"
+	@echo "... src/OpenClosedPrinciple/Circle.s"
+	@echo "... src/OpenClosedPrinciple/Rectangle.o"
+	@echo "... src/OpenClosedPrinciple/Rectangle.i"
+	@echo "... src/OpenClosedPrinciple/Rectangle.s"
 	@echo "... src/SingleResponsibilityPrinciple/Journal.o"
 	@echo "... src/SingleResponsibilityPrinciple/Journal.i"
 	@echo "... src/SingleResponsibilityPrinciple/Journal.s"
 	@echo "... src/SingleResponsibilityPrinciple/PersistenceManager.o"
 	@echo "... src/SingleResponsibilityPrinciple/PersistenceManager.i"
 	@echo "... src/SingleResponsibilityPrinciple/PersistenceManager.s"
-	@echo "... src/Singleton/Singleton.o"
-	@echo "... src/Singleton/Singleton.i"
-	@echo "... src/Singleton/Singleton.s"
 .PHONY : help
 
 

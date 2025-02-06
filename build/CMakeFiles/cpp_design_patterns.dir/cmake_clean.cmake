@@ -1,12 +1,14 @@
 file(REMOVE_RECURSE
   "CMakeFiles/cpp_design_patterns.dir/main.cpp.o"
   "CMakeFiles/cpp_design_patterns.dir/main.cpp.o.d"
+  "CMakeFiles/cpp_design_patterns.dir/src/OpenClosedPrinciple/Circle.cpp.o"
+  "CMakeFiles/cpp_design_patterns.dir/src/OpenClosedPrinciple/Circle.cpp.o.d"
+  "CMakeFiles/cpp_design_patterns.dir/src/OpenClosedPrinciple/Rectangle.cpp.o"
+  "CMakeFiles/cpp_design_patterns.dir/src/OpenClosedPrinciple/Rectangle.cpp.o.d"
   "CMakeFiles/cpp_design_patterns.dir/src/SingleResponsibilityPrinciple/Journal.cpp.o"
   "CMakeFiles/cpp_design_patterns.dir/src/SingleResponsibilityPrinciple/Journal.cpp.o.d"
   "CMakeFiles/cpp_design_patterns.dir/src/SingleResponsibilityPrinciple/PersistenceManager.cpp.o"
   "CMakeFiles/cpp_design_patterns.dir/src/SingleResponsibilityPrinciple/PersistenceManager.cpp.o.d"
-  "CMakeFiles/cpp_design_patterns.dir/src/Singleton/Singleton.cpp.o"
-  "CMakeFiles/cpp_design_patterns.dir/src/Singleton/Singleton.cpp.o.d"
   "cpp_design_patterns"
   "cpp_design_patterns.pdb"
 )

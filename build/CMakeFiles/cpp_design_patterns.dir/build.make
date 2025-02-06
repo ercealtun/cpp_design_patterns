@@ -83,10 +83,38 @@ CMakeFiles/cpp_design_patterns.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/cpp_design_patterns.dir/main.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ch1ef/Desktop/cpp_design_patterns/main.cpp -o CMakeFiles/cpp_design_patterns.dir/main.cpp.s
 
+CMakeFiles/cpp_design_patterns.dir/src/OpenClosedPrinciple/Circle.cpp.o: CMakeFiles/cpp_design_patterns.dir/flags.make
+CMakeFiles/cpp_design_patterns.dir/src/OpenClosedPrinciple/Circle.cpp.o: /home/ch1ef/Desktop/cpp_design_patterns/src/OpenClosedPrinciple/Circle.cpp
+CMakeFiles/cpp_design_patterns.dir/src/OpenClosedPrinciple/Circle.cpp.o: CMakeFiles/cpp_design_patterns.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/ch1ef/Desktop/cpp_design_patterns/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/cpp_design_patterns.dir/src/OpenClosedPrinciple/Circle.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cpp_design_patterns.dir/src/OpenClosedPrinciple/Circle.cpp.o -MF CMakeFiles/cpp_design_patterns.dir/src/OpenClosedPrinciple/Circle.cpp.o.d -o CMakeFiles/cpp_design_patterns.dir/src/OpenClosedPrinciple/Circle.cpp.o -c /home/ch1ef/Desktop/cpp_design_patterns/src/OpenClosedPrinciple/Circle.cpp
+
+CMakeFiles/cpp_design_patterns.dir/src/OpenClosedPrinciple/Circle.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/cpp_design_patterns.dir/src/OpenClosedPrinciple/Circle.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ch1ef/Desktop/cpp_design_patterns/src/OpenClosedPrinciple/Circle.cpp > CMakeFiles/cpp_design_patterns.dir/src/OpenClosedPrinciple/Circle.cpp.i
+
+CMakeFiles/cpp_design_patterns.dir/src/OpenClosedPrinciple/Circle.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/cpp_design_patterns.dir/src/OpenClosedPrinciple/Circle.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ch1ef/Desktop/cpp_design_patterns/src/OpenClosedPrinciple/Circle.cpp -o CMakeFiles/cpp_design_patterns.dir/src/OpenClosedPrinciple/Circle.cpp.s
+
+CMakeFiles/cpp_design_patterns.dir/src/OpenClosedPrinciple/Rectangle.cpp.o: CMakeFiles/cpp_design_patterns.dir/flags.make
+CMakeFiles/cpp_design_patterns.dir/src/OpenClosedPrinciple/Rectangle.cpp.o: /home/ch1ef/Desktop/cpp_design_patterns/src/OpenClosedPrinciple/Rectangle.cpp
+CMakeFiles/cpp_design_patterns.dir/src/OpenClosedPrinciple/Rectangle.cpp.o: CMakeFiles/cpp_design_patterns.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/ch1ef/Desktop/cpp_design_patterns/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/cpp_design_patterns.dir/src/OpenClosedPrinciple/Rectangle.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cpp_design_patterns.dir/src/OpenClosedPrinciple/Rectangle.cpp.o -MF CMakeFiles/cpp_design_patterns.dir/src/OpenClosedPrinciple/Rectangle.cpp.o.d -o CMakeFiles/cpp_design_patterns.dir/src/OpenClosedPrinciple/Rectangle.cpp.o -c /home/ch1ef/Desktop/cpp_design_patterns/src/OpenClosedPrinciple/Rectangle.cpp
+
+CMakeFiles/cpp_design_patterns.dir/src/OpenClosedPrinciple/Rectangle.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/cpp_design_patterns.dir/src/OpenClosedPrinciple/Rectangle.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ch1ef/Desktop/cpp_design_patterns/src/OpenClosedPrinciple/Rectangle.cpp > CMakeFiles/cpp_design_patterns.dir/src/OpenClosedPrinciple/Rectangle.cpp.i
+
+CMakeFiles/cpp_design_patterns.dir/src/OpenClosedPrinciple/Rectangle.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/cpp_design_patterns.dir/src/OpenClosedPrinciple/Rectangle.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ch1ef/Desktop/cpp_design_patterns/src/OpenClosedPrinciple/Rectangle.cpp -o CMakeFiles/cpp_design_patterns.dir/src/OpenClosedPrinciple/Rectangle.cpp.s
+
 CMakeFiles/cpp_design_patterns.dir/src/SingleResponsibilityPrinciple/Journal.cpp.o: CMakeFiles/cpp_design_patterns.dir/flags.make
 CMakeFiles/cpp_design_patterns.dir/src/SingleResponsibilityPrinciple/Journal.cpp.o: /home/ch1ef/Desktop/cpp_design_patterns/src/SingleResponsibilityPrinciple/Journal.cpp
 CMakeFiles/cpp_design_patterns.dir/src/SingleResponsibilityPrinciple/Journal.cpp.o: CMakeFiles/cpp_design_patterns.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/ch1ef/Desktop/cpp_design_patterns/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/cpp_design_patterns.dir/src/SingleResponsibilityPrinciple/Journal.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/ch1ef/Desktop/cpp_design_patterns/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/cpp_design_patterns.dir/src/SingleResponsibilityPrinciple/Journal.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cpp_design_patterns.dir/src/SingleResponsibilityPrinciple/Journal.cpp.o -MF CMakeFiles/cpp_design_patterns.dir/src/SingleResponsibilityPrinciple/Journal.cpp.o.d -o CMakeFiles/cpp_design_patterns.dir/src/SingleResponsibilityPrinciple/Journal.cpp.o -c /home/ch1ef/Desktop/cpp_design_patterns/src/SingleResponsibilityPrinciple/Journal.cpp
 
 CMakeFiles/cpp_design_patterns.dir/src/SingleResponsibilityPrinciple/Journal.cpp.i: cmake_force
@@ -100,7 +128,7 @@ CMakeFiles/cpp_design_patterns.dir/src/SingleResponsibilityPrinciple/Journal.cpp
 CMakeFiles/cpp_design_patterns.dir/src/SingleResponsibilityPrinciple/PersistenceManager.cpp.o: CMakeFiles/cpp_design_patterns.dir/flags.make
 CMakeFiles/cpp_design_patterns.dir/src/SingleResponsibilityPrinciple/PersistenceManager.cpp.o: /home/ch1ef/Desktop/cpp_design_patterns/src/SingleResponsibilityPrinciple/PersistenceManager.cpp
 CMakeFiles/cpp_design_patterns.dir/src/SingleResponsibilityPrinciple/PersistenceManager.cpp.o: CMakeFiles/cpp_design_patterns.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/ch1ef/Desktop/cpp_design_patterns/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/cpp_design_patterns.dir/src/SingleResponsibilityPrinciple/PersistenceManager.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/ch1ef/Desktop/cpp_design_patterns/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/cpp_design_patterns.dir/src/SingleResponsibilityPrinciple/PersistenceManager.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cpp_design_patterns.dir/src/SingleResponsibilityPrinciple/PersistenceManager.cpp.o -MF CMakeFiles/cpp_design_patterns.dir/src/SingleResponsibilityPrinciple/PersistenceManager.cpp.o.d -o CMakeFiles/cpp_design_patterns.dir/src/SingleResponsibilityPrinciple/PersistenceManager.cpp.o -c /home/ch1ef/Desktop/cpp_design_patterns/src/SingleResponsibilityPrinciple/PersistenceManager.cpp
 
 CMakeFiles/cpp_design_patterns.dir/src/SingleResponsibilityPrinciple/PersistenceManager.cpp.i: cmake_force
@@ -111,37 +139,25 @@ CMakeFiles/cpp_design_patterns.dir/src/SingleResponsibilityPrinciple/Persistence
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/cpp_design_patterns.dir/src/SingleResponsibilityPrinciple/PersistenceManager.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ch1ef/Desktop/cpp_design_patterns/src/SingleResponsibilityPrinciple/PersistenceManager.cpp -o CMakeFiles/cpp_design_patterns.dir/src/SingleResponsibilityPrinciple/PersistenceManager.cpp.s
 
-CMakeFiles/cpp_design_patterns.dir/src/Singleton/Singleton.cpp.o: CMakeFiles/cpp_design_patterns.dir/flags.make
-CMakeFiles/cpp_design_patterns.dir/src/Singleton/Singleton.cpp.o: /home/ch1ef/Desktop/cpp_design_patterns/src/Singleton/Singleton.cpp
-CMakeFiles/cpp_design_patterns.dir/src/Singleton/Singleton.cpp.o: CMakeFiles/cpp_design_patterns.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/ch1ef/Desktop/cpp_design_patterns/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/cpp_design_patterns.dir/src/Singleton/Singleton.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cpp_design_patterns.dir/src/Singleton/Singleton.cpp.o -MF CMakeFiles/cpp_design_patterns.dir/src/Singleton/Singleton.cpp.o.d -o CMakeFiles/cpp_design_patterns.dir/src/Singleton/Singleton.cpp.o -c /home/ch1ef/Desktop/cpp_design_patterns/src/Singleton/Singleton.cpp
-
-CMakeFiles/cpp_design_patterns.dir/src/Singleton/Singleton.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/cpp_design_patterns.dir/src/Singleton/Singleton.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ch1ef/Desktop/cpp_design_patterns/src/Singleton/Singleton.cpp > CMakeFiles/cpp_design_patterns.dir/src/Singleton/Singleton.cpp.i
-
-CMakeFiles/cpp_design_patterns.dir/src/Singleton/Singleton.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/cpp_design_patterns.dir/src/Singleton/Singleton.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ch1ef/Desktop/cpp_design_patterns/src/Singleton/Singleton.cpp -o CMakeFiles/cpp_design_patterns.dir/src/Singleton/Singleton.cpp.s
-
 # Object files for target cpp_design_patterns
 cpp_design_patterns_OBJECTS = \
 "CMakeFiles/cpp_design_patterns.dir/main.cpp.o" \
+"CMakeFiles/cpp_design_patterns.dir/src/OpenClosedPrinciple/Circle.cpp.o" \
+"CMakeFiles/cpp_design_patterns.dir/src/OpenClosedPrinciple/Rectangle.cpp.o" \
 "CMakeFiles/cpp_design_patterns.dir/src/SingleResponsibilityPrinciple/Journal.cpp.o" \
-"CMakeFiles/cpp_design_patterns.dir/src/SingleResponsibilityPrinciple/PersistenceManager.cpp.o" \
-"CMakeFiles/cpp_design_patterns.dir/src/Singleton/Singleton.cpp.o"
+"CMakeFiles/cpp_design_patterns.dir/src/SingleResponsibilityPrinciple/PersistenceManager.cpp.o"
 
 # External object files for target cpp_design_patterns
 cpp_design_patterns_EXTERNAL_OBJECTS =
 
 cpp_design_patterns: CMakeFiles/cpp_design_patterns.dir/main.cpp.o
+cpp_design_patterns: CMakeFiles/cpp_design_patterns.dir/src/OpenClosedPrinciple/Circle.cpp.o
+cpp_design_patterns: CMakeFiles/cpp_design_patterns.dir/src/OpenClosedPrinciple/Rectangle.cpp.o
 cpp_design_patterns: CMakeFiles/cpp_design_patterns.dir/src/SingleResponsibilityPrinciple/Journal.cpp.o
 cpp_design_patterns: CMakeFiles/cpp_design_patterns.dir/src/SingleResponsibilityPrinciple/PersistenceManager.cpp.o
-cpp_design_patterns: CMakeFiles/cpp_design_patterns.dir/src/Singleton/Singleton.cpp.o
 cpp_design_patterns: CMakeFiles/cpp_design_patterns.dir/build.make
 cpp_design_patterns: CMakeFiles/cpp_design_patterns.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/ch1ef/Desktop/cpp_design_patterns/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable cpp_design_patterns"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/ch1ef/Desktop/cpp_design_patterns/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable cpp_design_patterns"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/cpp_design_patterns.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
